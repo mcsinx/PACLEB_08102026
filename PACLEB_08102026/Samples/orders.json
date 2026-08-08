@@ -1,27 +1,32 @@
 [
   {
-    "id": 1,
-    "name": "Invoice #2026-001 - Maria Santos",
-    "amount": 1245.50
+    "id": 1001,
+    "name": "SO-2026-1001 - Maria Santos",
+    "amount": 1250.75
   },
   {
-    "id": 2,
-    "name": "Invoice #2026-002 - John Reyes",
-    "amount": 320.00
+    "id": 1002,
+    "name": "SO-2026-1002 - John Reyes",
+    "amount": 349.99
   },
   {
-    "id": 3,
-    "name": "Invoice #2026-003 - Angela Cruz",
-    "amount": 875.75
+    "id": 1003,
+    "name": "SO-2026-1003 - Angela Cruz",
+    "amount": 875.50
   },
   {
-    "id": 4,
-    "name": "Invoice #2026-004 - David Tan",
-    "amount": 450.25
+    "id": 1004,
+    "name": "SO-2026-1004 - David Tan",
+    "amount": 2420.00
   },
   {
-    "id": 5,
-    "name": "Invoice #2026-005 - Sophia Lim",
-    "amount": 2100.00
+    "id": 1005,
+    "name": "SO-2026-1005 - Sophia Lim",
+    "amount": 1599.95
+  },
+  {
+    "id": 1006,
+    "name": "SO-2026-1006 - Carlo Mendoza",
+    "amount": 499.00
   }
 ]

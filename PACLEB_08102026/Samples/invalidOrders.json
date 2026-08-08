@@ -1,5 +1,10 @@
 [
   {
-    "id": 1,
-    "name": "Order A",
-    "amount": 100
+    "id": 2001,
+    "name": "SO-2026-2001 - Roberto Garcia",
+    "amount": 1899.50
+  },
+  {
+    "id": 2002,
+    "name": "SO-2026-2002 - Patricia Gomez",
+    "amount": 725.25
