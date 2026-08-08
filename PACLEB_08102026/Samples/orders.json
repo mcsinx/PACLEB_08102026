@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Invoice #2026-001 - Maria Santos",
+    "amount": 1245.50
+  },
+  {
+    "id": 2,
+    "name": "Invoice #2026-002 - John Reyes",
+    "amount": 320.00
+  },
+  {
+    "id": 3,
+    "name": "Invoice #2026-003 - Angela Cruz",
+    "amount": 875.75
+  },
+  {
+    "id": 4,
+    "name": "Invoice #2026-004 - David Tan",
+    "amount": 450.25
+  },
+  {
+    "id": 5,
+    "name": "Invoice #2026-005 - Sophia Lim",
+    "amount": 2100.00
+  }
+]
