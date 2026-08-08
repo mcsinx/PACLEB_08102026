@@ -137,4 +137,18 @@ public sealed class FilesController : ControllerBase
             });
         }
     }
+    [HttpGet("report")]
+    public IActionResult GetReport()
+    {
+        var records = _trackingService
+            .GetRecords()
+            .OrderByDescending(x => x.ProcessedAt)
+            .ToArray();
+
+        return Ok(new
+        {
+            processedFileCount = _trackingService.GetProcessedFileCount(),
+            files = records
+        });
+    }
 }
